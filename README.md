@@ -5,9 +5,11 @@ Automate resume screening by classifying resumes into job roles using Natural La
 
 ## 🚀 Features
 - Text preprocessing (stopwords removal, cleaning)
-- TF-IDF feature extraction
-- Machine Learning classification
+- TF-IDF vectorization for feature extraction
+- Machine Learning model for prediction 
 - Streamlit web app for real-time prediction
+- Real-time prediction using streamlit web app
+- Easy-to-use interface for testing resumes
 
 ## 🛠 Tech Stack
 - Python
@@ -36,6 +38,16 @@ Custom dataset with 5 job roles:
 
 ## 💡 Use Case
 Helps HR teams automate resume screening and reduce manual effort.
+
+
+# Clone the repo
+git clone https://github.com/your-username/Resume-Screening-using-NLP.git
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run Streamlit app
+streamlit run app.py
 
 ## ▶️ How to Run
 
